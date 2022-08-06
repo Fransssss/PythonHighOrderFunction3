@@ -4,6 +4,11 @@ from ways import text
 from ways import loud
 from ways import quiet
 
+# ----------------------
+# simple program practice to understand high order of function
+# choose to say something in certain way and related function would be called
+# ----------------------
+
 print("\n Say something...")
 print("1. LOUDLY")
 print("2. quietly")
